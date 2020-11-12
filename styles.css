@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #f0bc1c;
+  text-align: center;
+  padding-top: 40px;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  background-color: white;
+  border: 1px solid #ccc;
+  padding: 8px 16px;
+  width: 300px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+span .hl {
+  background-color: #f0bc1c;
+}
+
+input {
+  padding: 8px 16px;
+    line-height: 25px;
+    font-size: 14px;
+    font-weight: 500;
+}
